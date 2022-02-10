@@ -10,12 +10,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+- 🌴 From Florida
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 8 years of developing experience
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 Want to reach me? DM me on Discord: **keaton#5570**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
+- ⚡ Fun fact :- food and coding are the reasons to live.
 
 <br>
 
