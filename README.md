@@ -83,6 +83,8 @@
 
 <br>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en"
     alt="adam-pw" /></p>
 
