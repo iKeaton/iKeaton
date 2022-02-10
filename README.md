@@ -12,7 +12,7 @@
 
 - 🌴 From Florida
 
-- 🌱 8 years of developing experience
+- 🖥️ 8 years of developing experience
 
 - 📫 Want to reach me? DM me on Discord: **keaton#5570**
 
