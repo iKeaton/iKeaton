@@ -2,9 +2,9 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+<a href="https://discord.com/users/785699347223412768">
+  <img src="https://lanyard-profile-readme.vercel.app/api/785699347223412768?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
 
 <br>
 
