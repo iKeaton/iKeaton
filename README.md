@@ -2,13 +2,13 @@
 
 <br>
 
-<a href="https://discord.com/users/785699347223412768">
-  <img src="https://lanyard-profile-readme.vercel.app/api/785699347223412768?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
-</a>
-
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<a href="https://discord.com/users/785699347223412768">
+  <img src="https://lanyard-profile-readme.vercel.app/api/785699347223412768?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
 
 - 🌴 From Florida
 
