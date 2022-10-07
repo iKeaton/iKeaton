@@ -15,7 +15,7 @@
 
 - 🖥️ 8 years of developing experience
 
-- 📫 Want to reach me? DM me on Discord: **Keaton#5570** or email me: **k@keaton.codes**
+- 📫 Want to reach me? Find a list of way to contact me on my website: *https://keaton.codes/more**
 
 - ⚡ Fun fact :- food and coding are the reasons to live.
 
