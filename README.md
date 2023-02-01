@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keaton</h1>
+![image](https://raw.githubusercontent.com/iKeaton/iKeaton/0eb33cb6db2b8d52b42b0e17ef44557f5848a85a/Group%201.svg)
 
 <br>
 
@@ -7,8 +7,6 @@
 </a>
 
 <br>
-
-<p><img align="right" src="https://github.com/TCPKeaton/readme/blob/main/animation_500_kxa883sd.gif" alt="keaton-rm" /></p>
 
 
 - 🌴 From Florida
@@ -21,16 +19,13 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="react" width="40" height="40" /> 
-  </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
@@ -44,6 +39,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
   </a>  
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" width="40" height="40" />
+  </a>
 </p>
 
 <br>
