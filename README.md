@@ -43,17 +43,3 @@
   <img src="https://www.vectorlogo.zone/logos/lua/lua-official.svg" alt="lua" width="40" height="40" />
   </a>
 </p>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
