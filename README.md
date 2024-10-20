@@ -13,9 +13,9 @@
 
 - 🖥️ 8 years of developing experience
 
-- 📫 Want to reach me? Find a list of way to contact me on my website: **https://keaton.codes/more**
+- 📫 Want to reach me? Contact me on my website: **https://plexidia.com**
 
-- ⚡ Fun fact :- food and coding are the reasons to live.
+- ⚡ Fun fact :- flying and coding are the reasons to live.
 
 <br>
 
